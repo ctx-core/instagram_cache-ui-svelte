@@ -1,5 +1,11 @@
 # @ctx-core/instagram_cache-ui-svelte
 
+## 1.0.6
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 1.0.5
 
 ### Patch Changes
