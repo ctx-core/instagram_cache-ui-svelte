@@ -1,5 +1,15 @@
 # @ctx-core/instagram_cache-ui-svelte
 
+## 1.0.8
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+- Updated dependencies
+  - @ctx-core/fontawesome-ui-svelte@1.0.9
+  - @ctx-core/instagram_cache@10.0.10
+  - @ctx-core/object@22.0.7
+
 ## 1.0.7
 
 ### Patch Changes
