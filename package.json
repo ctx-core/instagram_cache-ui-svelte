@@ -32,7 +32,7 @@
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.55",
-		"@swc/core": "^1.2.133",
+		"@swc/core": "^1.2.135",
 		"@types/selenium-webdriver": "^4.0.16",
 		"rimraf": "^3.0.2",
 		"svelte": "^3.46.3",
