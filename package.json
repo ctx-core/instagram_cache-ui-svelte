@@ -24,8 +24,8 @@
 		"start": "./bin/instagram_cache.js"
 	},
 	"dependencies": {
-		"@ctx-core/fontawesome-ui-svelte": "workspace:^1.0.28",
-		"@ctx-core/instagram_cache": "workspace:^13.0.0",
+		"@ctx-core/fontawesome-ui-svelte": "workspace:^1.0.29",
+		"@ctx-core/instagram_cache": "workspace:^13.0.2",
 		"@ctx-core/object": "workspace:^22.0.13"
 	},
 	"devDependencies": {
