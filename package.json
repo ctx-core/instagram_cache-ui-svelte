@@ -23,14 +23,14 @@
 	},
 	"dependencies": {
 		"@ctx-core/fontawesome-ui-svelte": "^1.0.45",
-		"@ctx-core/instagram_cache": "^13.0.44",
+		"@ctx-core/instagram_cache": "^13.0.45",
 		"@ctx-core/object": "^22.1.9"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.57",
-		"@swc/core": "^1.2.172",
+		"@swc/core": "^1.2.173",
 		"@types/selenium-webdriver": "^4.0.19",
 		"rimraf": "^3.0.2",
 		"svelte": "^3.47.0",
