@@ -31,7 +31,7 @@
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.57",
 		"@swc/core": "^1.2.178",
-		"@types/selenium-webdriver": "^4.0.19",
+		"@types/selenium-webdriver": "^4.0.20",
 		"rimraf": "^3.0.2",
 		"svelte": "^3.48.0",
 		"svelte-preprocess": "^4.10.6",
