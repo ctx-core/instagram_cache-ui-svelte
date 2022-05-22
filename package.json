@@ -22,7 +22,7 @@
 		"start": "./bin/instagram_cache.js"
 	},
 	"dependencies": {
-		"@ctx-core/fontawesome-ui-svelte": "^1.0.50",
+		"@ctx-core/fontawesome-ui-svelte": "^1.0.51",
 		"@ctx-core/instagram_cache": "^13.0.59",
 		"@ctx-core/object": "^22.1.10"
 	},
