@@ -1,5 +1,5 @@
 <script lang="ts">
-import { Ctx } from '@ctx-core/object'
+import { type Ctx } from '@ctx-core/object'
 import { FA_chevron_left_solid, FA_chevron_right_solid } from '@ctx-core/fontawesome-ui-svelte'
 import { medium_pathname__, medium_pathname_idx__ } from '@ctx-core/instagram_cache'
 export let ctx:Ctx
