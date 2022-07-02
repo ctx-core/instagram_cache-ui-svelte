@@ -23,7 +23,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/fontawesome-ui-svelte": "^1.0.58",
-		"@ctx-core/instagram_cache": "^13.1.14",
+		"@ctx-core/instagram_cache": "^13.1.15",
 		"@ctx-core/object": "^22.2.1"
 	},
 	"devDependencies": {
