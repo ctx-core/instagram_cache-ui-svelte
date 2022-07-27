@@ -23,19 +23,19 @@
 	},
 	"dependencies": {
 		"@ctx-core/fontawesome-ui-svelte": "^1.0.60",
-		"@ctx-core/instagram_cache": "^13.1.25",
+		"@ctx-core/instagram_cache": "^13.1.26",
 		"@ctx-core/object": "^22.2.4"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.57",
-		"@swc/core": "^1.2.218",
+		"@swc/core": "^1.2.219",
 		"@types/selenium-webdriver": "^4.1.2",
 		"rimraf": "^3.0.2",
 		"svelte": "^3.49.0",
 		"svelte-preprocess": "^4.10.7",
-		"svelte2tsx": "^0.5.12",
+		"svelte2tsx": "^0.5.13",
 		"tslib": "^2.4.0",
 		"typescript": "next"
 	},
