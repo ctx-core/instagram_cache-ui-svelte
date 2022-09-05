@@ -24,7 +24,7 @@
 	"dependencies": {
 		"@ctx-core/fontawesome-ui-svelte": "^1.0.64",
 		"@ctx-core/instagram_cache": "^13.1.40",
-		"@ctx-core/object": "^22.2.7"
+		"@ctx-core/object": "^22.2.8"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
