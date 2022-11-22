@@ -14,7 +14,7 @@ $: img_src = `https://instagram.com${$medium_pathname_}media/?size=l`//endregion
 		<FA_chevron_left_solid></FA_chevron_left_solid>
 	</div>
 	<div class="media">
-		<img src="{img_src}" alt="">
+		<img src={img_src} alt="">
 	</div>
 	<div class="next button" on:click={medium_pathname_idx_.next_medium_pathname}>
 		<FA_chevron_right_solid></FA_chevron_right_solid>
