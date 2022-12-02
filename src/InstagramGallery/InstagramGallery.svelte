@@ -5,7 +5,7 @@ import { medium_pathname__, medium_pathname_idx__ } from '@ctx-core/instagram_ca
 export let ctx:Ctx
 const medium_pathname_ = medium_pathname__(ctx)
 const medium_pathname_idx_ = medium_pathname_idx__(ctx)
-let img_src//region
+let img_src:string//region
 $: img_src = `https://instagram.com${$medium_pathname_}media/?size=l`//endregion
 </script>
 
