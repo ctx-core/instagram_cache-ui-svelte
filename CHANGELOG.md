@@ -1,5 +1,13 @@
 # @ctx-core/instagram_cache-ui-svelte
 
+## 1.1.34
+
+### Patch Changes
+
+- @types/selenium-webdriver: ^4.1.9 -> ^4.1.10
+- Updated dependencies
+  - @ctx-core/instagram_cache@13.1.85
+
 ## 1.1.33
 
 ### Patch Changes
