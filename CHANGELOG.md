@@ -1,5 +1,13 @@
 # @ctx-core/instagram_cache-ui-svelte
 
+## 1.1.35
+
+### Patch Changes
+
+- @ctx-core/instagram_cache: ^13.1.85 -> ^13.1.86
+- Updated dependencies
+  - @ctx-core/fontawesome-ui-svelte@1.0.83
+
 ## 1.1.34
 
 ### Patch Changes
