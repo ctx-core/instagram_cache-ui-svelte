@@ -1,5 +1,13 @@
 # @ctx-core/instagram_cache-ui-svelte
 
+## 1.1.69
+
+### Patch Changes
+
+- rimraf: ^3.0.2 -> ^4.0.1
+- Updated dependencies
+  - @ctx-core/fontawesome-ui-svelte@1.0.97
+
 ## 1.1.68
 
 ### Patch Changes
