@@ -1,12 +1,13 @@
-<script lang="ts">
-import { type Ctx } from '@ctx-core/object'
+<script>
 import { FA_chevron_left_solid, FA_chevron_right_solid } from '@ctx-core/fontawesome-ui-svelte'
 import { medium_pathname__, medium_pathname_idx__ } from '@ctx-core/instagram_cache'
-export let ctx:Ctx
+/** @type {import('@ctx-core/object').Ctx} */
+export let ctx
 const medium_pathname_ = medium_pathname__(ctx)
 const medium_pathname_idx_ = medium_pathname_idx__(ctx)
-let img_src:string//region
-$: img_src = `https://instagram.com${$medium_pathname_}media/?size=l`//endregion
+/** @type {string} */
+let img_src
+$: img_src = `https://instagram.com${$medium_pathname_}media/?size=l`
 </script>
 
 <div class="InstagramGallery">
