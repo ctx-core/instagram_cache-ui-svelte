@@ -11,13 +11,13 @@ $: img_src = `https://instagram.com${$medium_pathname_}media/?size=l`
 </script>
 
 <div class="InstagramGallery">
-	<div class="prev button" on:click={medium_pathname_idx_.prev_medium_pathname}>
+	<div class="prev button" on:click={medium_pathname_idx_.medium_pathname_idx__prev}>
 		<FA_chevron_left_solid></FA_chevron_left_solid>
 	</div>
 	<div class="media">
 		<img src={img_src} alt="">
 	</div>
-	<div class="next button" on:click={medium_pathname_idx_.next_medium_pathname}>
+	<div class="next button" on:click={medium_pathname_idx_.medium_pathname_idx__next}>
 		<FA_chevron_right_solid></FA_chevron_right_solid>
 	</div>
 </div>
