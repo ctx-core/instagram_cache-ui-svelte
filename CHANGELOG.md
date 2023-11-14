@@ -1,5 +1,15 @@
 # @ctx-core/instagram_cache-ui-svelte
 
+## 1.3.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/fontawesome-ui-svelte@1.1.2
+  - @ctx-core/instagram_cache@15.1.2
+  - @ctx-core/object@30.1.2
+
 ## 1.3.1
 
 ### Patch Changes
