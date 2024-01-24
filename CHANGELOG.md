@@ -1,5 +1,11 @@
 # @ctx-core/instagram_cache-ui-svelte
 
+## 1.3.210
+
+### Patch Changes
+
+- @ctx-core/instagram_cache: ^15.1.197 -> ^15.1.198
+
 ## 1.3.209
 
 ### Patch Changes
