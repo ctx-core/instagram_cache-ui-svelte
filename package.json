@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/instagram_cache-ui-svelte",
-	"version": "1.3.368",
+	"version": "1.3.369",
 	"description": "instagram scraper, account cache, & gallery component",
 	"keywords": [
 		"ctx-core",
@@ -49,9 +49,9 @@
 		"disable:test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"@ctx-core/fontawesome-ui-svelte": "1.1.251",
-		"@ctx-core/instagram_cache": "^15.1.329",
-		"ctx-core": "^7.2.27",
+		"@ctx-core/fontawesome-ui-svelte": "1.1.252",
+		"@ctx-core/instagram_cache": "^15.1.330",
+		"ctx-core": "^7.2.28",
 		"svelte": "^4.2.18"
 	},
 	"devDependencies": {
