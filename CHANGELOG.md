@@ -1,5 +1,15 @@
 # @ctx-core/instagram_cache-ui-svelte
 
+## 1.3.378
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+- Updated dependencies
+  - ctx-core@7.2.34
+  - @ctx-core/fontawesome-ui-svelte@1.1.260
+  - @ctx-core/instagram_cache@15.1.337
+
 ## 1.3.377
 
 ### Patch Changes
